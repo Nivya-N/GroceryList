@@ -1,0 +1,85 @@
+{
+    "list" : [
+                {
+                    "SlNo" : "1",
+                    "Name"  :  "Rice",
+                    "Quantity" : "10",
+                    "Unit" : "kg",
+                    "Department" : "Grocery",
+                    "Notes" : "Sona ponni"
+                },
+                {
+                    "SlNo" : "2",
+                    "Name"  :  "Wheat powder",
+                    "Quantity" : "2",
+                    "Unit" : "kg",
+                    "Department" : "Grocery",
+                    "Notes" : "Aashirvad"
+                },
+                {
+                    "SlNo" : "3",
+                    "Name"  :  "Chilli powder",
+                    "Quantity" : "250",
+                    "Unit" : "g",
+                    "Department" : "Grocery",
+                    "Notes" : "Kashmiri powder"
+                },
+                {
+                    "SlNo" : "4",
+                    "Name"  :  "Potato",
+                    "Quantity" : "1",
+                    "Unit" : "kg",
+                    "Department" : "Vegetables",
+                    "Notes" : "Small potatos"
+                },
+                {
+                    "SlNo" : "5",
+                    "Name"  :  "Cabbage",
+                    "Quantity" : "1",
+                    "Unit" : "kg",
+                    "Department" : "Vegetables",
+                    "Notes" : "fresh"
+                },
+                {
+                    "SlNo" : "6",
+                    "Name"  :  "Milk",
+                    "Quantity" : "1",
+                    "Unit" : "litre",
+                    "Department" : "Freezer items",
+                    "Notes" : "Full fat"
+                },
+                {
+                    "SlNo" : "7",
+                    "Name"  :  "Pringles",
+                    "Quantity" : "1",
+                    "Unit" : "bottle",
+                    "Department" : "Snacks",
+                    "Notes" : "Classic salted"
+                },
+                {
+                    "SlNo" : "8",
+                    "Name"  :  "Soap",
+                    "Quantity" : "3",
+                    "Unit" : "numbers",
+                    "Department" : "Cleaning",
+                    "Notes" : "Pears"
+                },
+                {
+                    "SlNo" : "9",
+                    "Name"  :  "Paneer",
+                    "Quantity" : "200",
+                    "Unit" : "g",
+                    "Department" : "Freezer items",
+                    "Notes" : "Cubed"
+                },
+                {
+                    "SlNo" : "10",
+                    "Name"  :  "Dairy Milk",
+                    "Quantity" : "1",
+                    "Unit" : "number",
+                    "Department" : "Sweets",
+                    "Notes" : "bubbly"
+                }
+
+             ]
+}
